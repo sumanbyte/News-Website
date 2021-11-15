@@ -1,0 +1,1 @@
+Hello Everyone, Welcome to this new Project of mine. Where i have tried to use a news api to get the news. It is purely made on vannila javascript along with tailwind css for the frontend design. if you liked it please star the repository. If you have any suggestions you can directly text me on linkedin with the same username. Feel free to contribute.  Thank you !!! 
