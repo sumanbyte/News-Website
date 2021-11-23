@@ -1,5 +1,5 @@
 News Lover?
-Checkout this:
+<br>
 Usage:
 1. clone this repo to your local machine
 2. install vscode and liveserver
@@ -7,7 +7,8 @@ Usage:
 4. sit back.
 5. relax
 6. enjoy the news.
-Website Snapshots:
+<br>
+Snapshots:
 <img src="img/index.png" >
 
 
